@@ -1,8 +1,7 @@
 # processing_python
 
-### regModel_pyde directory
-<p>linear regression model with gradient descent</p>
-(gif sometimes show first video-frame)
+### regModel dir
+<p>Contains code with interactive visualisation of linear regression</p>
 
 ![](regression_model.gif)
->>>>>>> 1f02c873635b93dfd0ee82f0c7dc4ea238b43585
+(gif broken - shows 1 frame)
